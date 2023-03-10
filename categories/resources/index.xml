@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Resources - Category - My New Hugo Site</title>
-        <link>https://github.com/retirerorwe/categories/resources/</link>
+        <link>https://manweiliu.github.io/categories/resources/</link>
         <description>Resources - Category - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 Dec 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://github.com/retirerorwe/categories/resources/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 Dec 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://manweiliu.github.io/categories/resources/" rel="self" type="application/rss+xml" /><item>
     <title>How to write clearly</title>
-    <link>https://github.com/retirerorwe/posts/writing-clarity/</link>
+    <link>https://manweiliu.github.io/posts/writing-clarity/</link>
     <pubDate>Mon, 19 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>Manwei Liu</author>
-    <guid>https://github.com/retirerorwe/posts/writing-clarity/</guid>
+    <guid>https://manweiliu.github.io/posts/writing-clarity/</guid>
     <description><![CDATA[Here are the references for my bachelor course How to write clearly. Highly recommended Joseph M. Williams, Style: Toward Clarity and Grace (Chicago Guides to Writing, Editing, and Publishing, 1990) 中文版：《风格：写作的清晰与优雅》（北京大学出版社，2020） Stven Pinker, The sense of style (Penguin Books, 2014)]]></description>
 </item>
 </channel>
