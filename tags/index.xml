@@ -1,0 +1,87 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - My New Hugo Site</title>
+        <link>https://github.com/retirerorwe/tags/</link>
+        <description>Tags - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://github.com/retirerorwe/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>political</title>
+    <link>https://github.com/retirerorwe/tags/political/</link>
+    <pubDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/political/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>poverty</title>
+    <link>https://github.com/retirerorwe/tags/poverty/</link>
+    <pubDate>Wed, 08 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/poverty/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>violence</title>
+    <link>https://github.com/retirerorwe/tags/violence/</link>
+    <pubDate>Wed, 08 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/violence/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>efficiency</title>
+    <link>https://github.com/retirerorwe/tags/efficiency/</link>
+    <pubDate>Wed, 01 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/efficiency/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>media</title>
+    <link>https://github.com/retirerorwe/tags/media/</link>
+    <pubDate>Wed, 01 Feb 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/media/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>cognition</title>
+    <link>https://github.com/retirerorwe/tags/cognition/</link>
+    <pubDate>Sun, 22 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/cognition/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>discrimination</title>
+    <link>https://github.com/retirerorwe/tags/discrimination/</link>
+    <pubDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/discrimination/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>gender</title>
+    <link>https://github.com/retirerorwe/tags/gender/</link>
+    <pubDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/gender/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>crime</title>
+    <link>https://github.com/retirerorwe/tags/crime/</link>
+    <pubDate>Sun, 01 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/crime/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>network</title>
+    <link>https://github.com/retirerorwe/tags/network/</link>
+    <pubDate>Sun, 01 Jan 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://github.com/retirerorwe/tags/network/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
