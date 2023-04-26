@@ -3,7 +3,47 @@
         <title>Tags - Tag - My Academic Site</title>
         <link>https://manweiliu.github.io/tags/</link>
         <description>Tags - Tag - My Academic Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://manweiliu.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 22 Apr 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://manweiliu.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>art</title>
+    <link>https://manweiliu.github.io/tags/art/</link>
+    <pubDate>Sat, 22 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/tags/art/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>narrative</title>
+    <link>https://manweiliu.github.io/tags/narrative/</link>
+    <pubDate>Sat, 15 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/tags/narrative/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>methods</title>
+    <link>https://manweiliu.github.io/tags/methods/</link>
+    <pubDate>Sat, 08 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/tags/methods/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>redistribution</title>
+    <link>https://manweiliu.github.io/tags/redistribution/</link>
+    <pubDate>Sat, 01 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/tags/redistribution/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>data science</title>
+    <link>https://manweiliu.github.io/tags/data-science/</link>
+    <pubDate>Fri, 31 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/tags/data-science/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>political</title>
     <link>https://manweiliu.github.io/tags/political/</link>
     <pubDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</pubDate>
@@ -41,46 +81,6 @@
     <pubDate>Wed, 01 Feb 2023 00:00:00 &#43;0000</pubDate>
     <author>Manwei Liu</author>
     <guid>https://manweiliu.github.io/tags/media/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>cognition</title>
-    <link>https://manweiliu.github.io/tags/cognition/</link>
-    <pubDate>Sun, 22 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/tags/cognition/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>discrimination</title>
-    <link>https://manweiliu.github.io/tags/discrimination/</link>
-    <pubDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/tags/discrimination/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>gender</title>
-    <link>https://manweiliu.github.io/tags/gender/</link>
-    <pubDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/tags/gender/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>crime</title>
-    <link>https://manweiliu.github.io/tags/crime/</link>
-    <pubDate>Sun, 01 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/tags/crime/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>network</title>
-    <link>https://manweiliu.github.io/tags/network/</link>
-    <pubDate>Sun, 01 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/tags/network/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

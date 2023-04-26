@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>methods - Tag - My Academic Site</title>
+        <link>https://manweiliu.github.io/tags/methods/</link>
+        <description>methods - Tag - My Academic Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://manweiliu.github.io/tags/methods/" rel="self" type="application/rss+xml" /><item>
+    <title>观察数据、实验和调查问卷</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-14/</link>
+    <pubDate>Sat, 08 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-14/</guid>
+    <description><![CDATA[1 Combining experimental and observational studies in meat-analysis: A mutual debiasing approach 观察数据有selection bias，RCT也有site selection bias。这篇文章提出了一个DD-IV方法，结合这两类数据]]></description>
+</item>
+</channel>
+</rss>

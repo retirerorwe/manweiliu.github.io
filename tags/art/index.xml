@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>art - Tag - My Academic Site</title>
+        <link>https://manweiliu.github.io/tags/art/</link>
+        <description>art - Tag - My Academic Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 22 Apr 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://manweiliu.github.io/tags/art/" rel="self" type="application/rss+xml" /><item>
+    <title>艺术与艺术家</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-16/</link>
+    <pubDate>Sat, 22 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-16/</guid>
+    <description><![CDATA[1 MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment AI已经可以生成图像、视频和文本了，现在轮到音乐了。音乐与图像有些许不同，音乐是一门关于时值的艺术，音乐还具有多重]]></description>
+</item>
+</channel>
+</rss>

@@ -3,7 +3,55 @@
         <title>Notes - Category - My Academic Site</title>
         <link>https://manweiliu.github.io/categories/notes/</link>
         <description>Notes - Category - My Academic Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://manweiliu.github.io/categories/notes/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 22 Apr 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://manweiliu.github.io/categories/notes/" rel="self" type="application/rss+xml" /><item>
+    <title>艺术与艺术家</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-16/</link>
+    <pubDate>Sat, 22 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-16/</guid>
+    <description><![CDATA[1 MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment AI已经可以生成图像、视频和文本了，现在轮到音乐了。音乐与图像有些许不同，音乐是一门关于时值的艺术，音乐还具有多重]]></description>
+</item>
+<item>
+    <title>如何讲故事</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-15/</link>
+    <pubDate>Sat, 15 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-15/</guid>
+    <description><![CDATA[1 Immigrant narratives 这篇文章用NLP分析了2005年至2019年70家德国报纸上关于移民的十万篇文章叙事，将这些叙事的主题分为七大类： 工作、福利、企业家精]]></description>
+</item>
+<item>
+    <title>观察数据、实验和调查问卷</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-14/</link>
+    <pubDate>Sat, 08 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-14/</guid>
+    <description><![CDATA[1 Combining experimental and observational studies in meat-analysis: A mutual debiasing approach 观察数据有selection bias，RCT也有site selection bias。这篇文章提出了一个DD-IV方法，结合这两类数据]]></description>
+</item>
+<item>
+    <title>一千个打工人眼中有一千个理想的收入分布</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-13/</link>
+    <pubDate>Sat, 01 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-13/</guid>
+    <description><![CDATA[1 Distributional preferences in larger groups: Keeping up with the Joneses and keeping track of the tails, JEEA, 2021 Mturk实验，在7人组/9人组中复制更接近真实世界的收入分布，给定被试自己的相对位置和收入水平，看他]]></description>
+</item>
+<item>
+    <title>预测现在</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-12/</link>
+    <pubDate>Fri, 31 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-12/</guid>
+    <description><![CDATA[用搜索数据预测现在或近未来。 1 The parable of Google Flu: Traps in big data analysis 用搜索数据预测流感——的一些问题。 Big data hubris The initial version of GFT was a particularly problematic marriage of big and small data. Essentially, the methodology was to find the best matches among]]></description>
+</item>
+<item>
+    <title>Big data is like teenage sex</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-11/</link>
+    <pubDate>Wed, 29 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-11/</guid>
+    <description><![CDATA[Quote Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it. &ndash;Dan Ariely 1 The End of Theory: The Data Deluge Makes the Scientific Method Obsolete “相关不等于因果”这句话已经刻进了科学家的DN]]></description>
+</item>
+<item>
     <title>选举与选票</title>
     <link>https://manweiliu.github.io/posts/weekly-paper-10/</link>
     <pubDate>Sun, 05 Mar 2023 00:00:00 &#43;0000</pubDate>
@@ -34,46 +82,6 @@
     <author>Manwei Liu</author>
     <guid>https://manweiliu.github.io/posts/weekly-paper-4/</guid>
     <description><![CDATA[关于我们的认知。 1 Nielsen Rehbeck, When choices are mistakes, AER2022 大量的实验研究发现人们在实验室中的决策违反了理性决策理论中的公理。从实然分析的角度，理论没有准确地描述人们的]]></description>
-</item>
-<item>
-    <title>平等之路道坚且长</title>
-    <link>https://manweiliu.github.io/posts/weekly-paper-3/</link>
-    <pubDate>Sun, 15 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/posts/weekly-paper-3/</guid>
-    <description><![CDATA[1 Dhar Jain Jayachandran, Reshaping adolescents’ gender attitudes: Evidence from a school-based experiment in India, AER2022 在很多发展中国家，女性在社会活动中仍然受到诸多限制：接受教育的机会更少，婚育选择上的能]]></description>
-</item>
-<item>
-    <title>我们不生产谎言，只是帮你说服你自己</title>
-    <link>https://manweiliu.github.io/posts/weekly-paper-2/</link>
-    <pubDate>Sun, 08 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/posts/weekly-paper-2/</guid>
-    <description><![CDATA[关于政治中的叙事和观点的形成。 1 Miani, Hills &amp; Bangerter, Interconnectedness and (in)coherence as a signature of conspiracy worldviews, SciAdv2022 Theory Conspiracy theories may arise out of an overarching conspiracy worldview that identifies common elements of subterfuge across unrelated or even contradictory explanations, leading to networks of self-reinforcing beliefs. People who believe in one CT tend to believe in others,]]></description>
-</item>
-<item>
-    <title>法外狂徒</title>
-    <link>https://manweiliu.github.io/posts/weekly-paper-1/</link>
-    <pubDate>Sun, 01 Jan 2023 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/posts/weekly-paper-1/</guid>
-    <description><![CDATA[关于有组织犯罪。 1 Duijn Kashirin Sloot, The Relative Ineffectiveness of Criminal Network Disruption, Scientific reports 2014 结合social network analysis和荷兰警察局的数据，研究如何更有效地打击犯罪网络。 分析框架 传统]]></description>
-</item>
-<item>
-    <title>米尔斯的《治学之道》</title>
-    <link>https://manweiliu.github.io/posts/mills-craftmanship/</link>
-    <pubDate>Wed, 06 Jul 2022 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/posts/mills-craftmanship/</guid>
-    <description><![CDATA[无需解释米尔斯《社会学的想象力》这本书的影响力。它的名声可能太大了了一点，以至于会在不恰当的时机吸引到尚不需要它的人。我读本科时第一次挑战它]]></description>
-</item>
-<item>
-    <title>Intransitivities in Multidimensional Voting</title>
-    <link>https://manweiliu.github.io/posts/intransitivity/</link>
-    <pubDate>Thu, 19 May 2022 00:00:00 &#43;0000</pubDate>
-    <author>Manwei Liu</author>
-    <guid>https://manweiliu.github.io/posts/intransitivity/</guid>
-    <description><![CDATA[The intransitivity of social choice rules has been a concern ever since Arrow&rsquo;s impossibility theorem. In his 1976 paper, McKelvey shows that, if there is no equilibrium outcome, then all points in the whole policy space are in the same cycle set. When this happens, you can always find another policy that is favored over the current one by a majority of the voters. In other words, policy outcomes generated by a simple majority voting rule are not stable.]]></description>
 </item>
 </channel>
 </rss>

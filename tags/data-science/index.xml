@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>data science - Tag - My Academic Site</title>
+        <link>https://manweiliu.github.io/tags/data-science/</link>
+        <description>data science - Tag - My Academic Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 31 Mar 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://manweiliu.github.io/tags/data-science/" rel="self" type="application/rss+xml" /><item>
+    <title>预测现在</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-12/</link>
+    <pubDate>Fri, 31 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-12/</guid>
+    <description><![CDATA[用搜索数据预测现在或近未来。 1 The parable of Google Flu: Traps in big data analysis 用搜索数据预测流感——的一些问题。 Big data hubris The initial version of GFT was a particularly problematic marriage of big and small data. Essentially, the methodology was to find the best matches among]]></description>
+</item>
+<item>
+    <title>Big data is like teenage sex</title>
+    <link>https://manweiliu.github.io/posts/weekly-paper-11/</link>
+    <pubDate>Wed, 29 Mar 2023 00:00:00 &#43;0000</pubDate>
+    <author>Manwei Liu</author>
+    <guid>https://manweiliu.github.io/posts/weekly-paper-11/</guid>
+    <description><![CDATA[Quote Big data is like teenage sex: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it. &ndash;Dan Ariely 1 The End of Theory: The Data Deluge Makes the Scientific Method Obsolete “相关不等于因果”这句话已经刻进了科学家的DN]]></description>
+</item>
+</channel>
+</rss>
